@@ -382,6 +382,34 @@ class Character extends FlxSprite
 
 				loadOffsetFile(curCharacter);
 				barColor = 0xFF9a00f8;
+				case 'pumptest':
+				tex = Paths.getSparrowAtlas('New_Corrupt_Pump_D1', 'shared', true);
+				frames = tex;
+				animation.addByPrefix('singUP', 'spooky UP NOTE', 24, false);
+				animation.addByPrefix('singDOWN', 'spooky DOWN note', 24, false);
+				animation.addByPrefix('singLEFT', 'note sing left', 24, false);
+				animation.addByPrefix('singRIGHT', 'spooky sing right', 24, false);
+				animation.addByIndices('danceLeft', 'spooky dance idle', [0, 2, 6], "", 12, false);
+				animation.addByIndices('danceRight', 'spooky dance idle', [8, 10, 12, 14], "", 12, false);
+
+				loadOffsetFile(curCharacter);
+				barColor = 0xFFd57e00;
+
+				playAnim('danceRight');
+			case 'pumptestplayer':
+				tex = Paths.getSparrowAtlas('New_Corrupt_Pump_D1', 'shared', true);
+				frames = tex;
+				animation.addByPrefix('singUP', 'spooky UP NOTE', 24, false);
+				animation.addByPrefix('singDOWN', 'spooky DOWN note', 24, false);
+				animation.addByPrefix('singLEFT', 'note sing left', 24, false);
+				animation.addByPrefix('singRIGHT', 'spooky sing right', 24, false);
+				animation.addByIndices('danceLeft', 'spooky dance idle', [0, 2, 6], "", 12, false);
+				animation.addByIndices('danceRight', 'spooky dance idle', [8, 10, 12, 14], "", 12, false);
+
+				loadOffsetFile(curCharacter);
+				barColor = 0xFFd57e00;
+
+				playAnim('danceRight');
 
 				playAnim('idle');
 			default:
