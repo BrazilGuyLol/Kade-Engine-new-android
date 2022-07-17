@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SkidD2NEW.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Skid Down Note0000" x="0" y="0" width="420" height="481" frameX="0" frameY="0" frameWidth="432" frameHeight="481"/>
+	<SubTexture name="Skid Down Note0001" x="0" y="0" width="420" height="481" frameX="0" frameY="0" frameWidth="432" frameHeight="481"/>
+	<SubTexture name="Skid Down Note0002" x="420" y="0" width="420" height="472" frameX="-12" frameY="-9" frameWidth="432" frameHeight="481"/>
+	<SubTexture name="Skid Down Note0003" x="420" y="0" width="420" height="472" frameX="-12" frameY="-9" frameWidth="432" frameHeight="481"/>
+	<SubTexture name="Skid Down Note0004" x="420" y="0" width="420" height="472" frameX="-12" frameY="-9" frameWidth="432" frameHeight="481"/>
+	<SubTexture name="Skid Down Note0005" x="420" y="0" width="420" height="472" frameX="-12" frameY="-9" frameWidth="432" frameHeight="481"/>
+	<SubTexture name="Skid Down Note0006" x="420" y="0" width="420" height="472" frameX="-12" frameY="-9" frameWidth="432" frameHeight="481"/>
+	<SubTexture name="Skid Down Note0007" x="420" y="0" width="420" height="472" frameX="-12" frameY="-9" frameWidth="432" frameHeight="481"/>
+	<SubTexture name="Skid Down Note0008" x="420" y="0" width="420" height="472" frameX="-12" frameY="-9" frameWidth="432" frameHeight="481"/>
+	<SubTexture name="Skid Down Note0009" x="420" y="0" width="420" height="472" frameX="-12" frameY="-9" frameWidth="432" frameHeight="481"/>
+	<SubTexture name="Skid Idle Dance0000" x="840" y="0" width="474" height="522" frameX="0" frameY="0" frameWidth="488" frameHeight="522"/>
+	<SubTexture name="Skid Idle Dance0001" x="840" y="0" width="474" height="522" frameX="0" frameY="0" frameWidth="488" frameHeight="522"/>
+	<SubTexture name="Skid Idle Dance0002" x="1314" y="0" width="467" height="511" frameX="-6" frameY="-11" frameWidth="488" frameHeight="522"/>
+	<SubTexture name="Skid Idle Dance0003" x="1314" y="0" width="467" height="511" frameX="-6" frameY="-11" frameWidth="488" frameHeight="522"/>
+	<SubTexture name="Skid Idle Dance0004" x="1781" y="0" width="448" height="505" frameX="-40" frameY="-17" frameWidth="488" frameHeight="522"/>
+	<SubTexture name="Skid Idle Dance0005" x="1781" y="0" width="448" height="505" frameX="-40" frameY="-17" frameWidth="488" frameHeight="522"/>
+	<SubTexture name="Skid Idle Dance0006" x="1781" y="0" width="448" height="505" frameX="-40" frameY="-17" frameWidth="488" frameHeight="522"/>
+	<SubTexture name="Skid Idle Dance0007" x="1781" y="0" width="448" height="505" frameX="-40" frameY="-17" frameWidth="488" frameHeight="522"/>
+	<SubTexture name="Skid Idle Dance0008" x="1781" y="0" width="448" height="505" frameX="-40" frameY="-17" frameWidth="488" frameHeight="522"/>
+	<SubTexture name="Skid Left Note0000" x="2229" y="0" width="503" height="540" frameX="-43" frameY="0" frameWidth="546" frameHeight="540"/>
+	<SubTexture name="Skid Left Note0001" x="2229" y="0" width="503" height="540" frameX="-43" frameY="0" frameWidth="546" frameHeight="540"/>
+	<SubTexture name="Skid Left Note0002" x="2732" y="0" width="509" height="522" frameX="0" frameY="-18" frameWidth="546" frameHeight="540"/>
+	<SubTexture name="Skid Left Note0003" x="2732" y="0" width="509" height="522" frameX="0" frameY="-18" frameWidth="546" frameHeight="540"/>
+	<SubTexture name="Skid Left Note0004" x="2732" y="0" width="509" height="522" frameX="0" frameY="-18" frameWidth="546" frameHeight="540"/>
+	<SubTexture name="Skid Left Note0005" x="2732" y="0" width="509" height="522" frameX="0" frameY="-18" frameWidth="546" frameHeight="540"/>
+	<SubTexture name="Skid Left Note0006" x="2732" y="0" width="509" height="522" frameX="0" frameY="-18" frameWidth="546" frameHeight="540"/>
+	<SubTexture name="Skid Left Note0007" x="2732" y="0" width="509" height="522" frameX="0" frameY="-18" frameWidth="546" frameHeight="540"/>
+	<SubTexture name="Skid Left Note0008" x="2732" y="0" width="509" height="522" frameX="0" frameY="-18" frameWidth="546" frameHeight="540"/>
+	<SubTexture name="Skid Right Note0000" x="3241" y="0" width="445" height="482"/>
+	<SubTexture name="Skid Right Note0001" x="3241" y="0" width="445" height="482"/>
+	<SubTexture name="Skid Right Note0002" x="0" y="540" width="425" height="478" frameX="-16" frameY="-4" frameWidth="445" frameHeight="482"/>
+	<SubTexture name="Skid Right Note0003" x="0" y="540" width="425" height="478" frameX="-16" frameY="-4" frameWidth="445" frameHeight="482"/>
+	<SubTexture name="Skid Right Note0004" x="0" y="540" width="425" height="478" frameX="-16" frameY="-4" frameWidth="445" frameHeight="482"/>
+	<SubTexture name="Skid Right Note0005" x="0" y="540" width="425" height="478" frameX="-16" frameY="-4" frameWidth="445" frameHeight="482"/>
+	<SubTexture name="Skid Right Note0006" x="0" y="540" width="425" height="478" frameX="-16" frameY="-4" frameWidth="445" frameHeight="482"/>
+	<SubTexture name="Skid Right Note0007" x="0" y="540" width="425" height="478" frameX="-16" frameY="-4" frameWidth="445" frameHeight="482"/>
+	<SubTexture name="Skid Right Note0008" x="0" y="540" width="425" height="478" frameX="-16" frameY="-4" frameWidth="445" frameHeight="482"/>
+	<SubTexture name="Skid Right Note0009" x="0" y="540" width="425" height="478" frameX="-16" frameY="-4" frameWidth="445" frameHeight="482"/>
+	<SubTexture name="Skid Up Note 0000" x="425" y="540" width="442" height="530" frameX="-2" frameY="0" frameWidth="444" frameHeight="530"/>
+	<SubTexture name="Skid Up Note 0001" x="425" y="540" width="442" height="530" frameX="-2" frameY="0" frameWidth="444" frameHeight="530"/>
+	<SubTexture name="Skid Up Note 0002" x="867" y="540" width="432" height="511" frameX="0" frameY="-19" frameWidth="444" frameHeight="530"/>
+	<SubTexture name="Skid Up Note 0003" x="867" y="540" width="432" height="511" frameX="0" frameY="-19" frameWidth="444" frameHeight="530"/>
+	<SubTexture name="Skid Up Note 0004" x="867" y="540" width="432" height="511" frameX="0" frameY="-19" frameWidth="444" frameHeight="530"/>
+	<SubTexture name="Skid Up Note 0005" x="867" y="540" width="432" height="511" frameX="0" frameY="-19" frameWidth="444" frameHeight="530"/>
+	<SubTexture name="Skid Up Note 0006" x="867" y="540" width="432" height="511" frameX="0" frameY="-19" frameWidth="444" frameHeight="530"/>
+	<SubTexture name="Skid Up Note 0007" x="867" y="540" width="432" height="511" frameX="0" frameY="-19" frameWidth="444" frameHeight="530"/>
+	<SubTexture name="Skid Up Note 0008" x="867" y="540" width="432" height="511" frameX="0" frameY="-19" frameWidth="444" frameHeight="530"/>
+</TextureAtlas>
